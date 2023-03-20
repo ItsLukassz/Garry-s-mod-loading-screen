@@ -2,6 +2,8 @@
 # Garry's Mod Loading Screen
 This is a loading screen created for a game called Garry's Mod.
 You can freely use this loading screen for your own server.
+The code is nowhere to being clean since I'm stil; new to web development and my weakest suit is CSS which is where the code is the mesiest
+
 
 ## Why make another loading screen?
 
