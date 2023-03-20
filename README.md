@@ -18,6 +18,6 @@ Just drag and drop the files into your webserver and change the "MistyNetwork" t
 
 #### Already started but unfinished:
 
- Admin Panel with in-game tips control
-
+ Admin Panel with in-game tips control (Using FLASK)
+ 
 
